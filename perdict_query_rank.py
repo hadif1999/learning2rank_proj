@@ -1,0 +1,1 @@
+class perdict_query_rank:
